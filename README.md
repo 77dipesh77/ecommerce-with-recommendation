@@ -229,6 +229,3 @@ After seeding, use these test accounts:
 
 Live Demo: https://ecommerce-with-recommendation.vercel.app/
 
-Demo Video: [Drive](https://drive.google.com/file/d/1h0OMURVDwqu3GQmm1JIuJd4rJ9nVWy8c/view?usp=sharing)
-
-Built with passion by Divy Pathak
